@@ -6,6 +6,10 @@ import * as AiIcons from "react-icons/ai";
 import { SidebarData } from "./SidebarData";
 import SubMenu from "./SubMenu";
 import { IconContext } from "react-icons/lib";
+import "bootstrap/dist/css/bootstrap.min.css";
+import { Container } from "react-bootstrap";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faLinkedin } from "@fortawesome/free-brands-svg-icons";
 
 const Nav = styled.div`
   background: #8b32a8;
@@ -51,9 +55,15 @@ const Sidebar = () => {
           <NavIcon to="#">
             <FaIcons.FaBars onClick={showSidebar} />
           </NavIcon>
-          <h1 style={{ marginLeft: "600px", color: "#f0c0ef" }}>
-            Welcome, Bem-vindo, Irasshaimase!
-          </h1>
+          <Container>
+            <h1 style={{ marginLeft: "600px", color: "#f0c0ef" }}>
+              Welcome, Bem-vindo, Irasshaimase!
+            </h1>
+            <div>
+              <a href="https://linkedin.com"></a>
+              <FontAwesomeIcon icon={faLinkedin} />
+            </div>
+          </Container>
         </Nav>
         <SidebarNav sidebar={sidebar}>
           <SidebarWrap>
