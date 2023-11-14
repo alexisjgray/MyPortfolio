@@ -56,7 +56,7 @@ const Sidebar = () => {
             <FaIcons.FaBars onClick={showSidebar} />
           </NavIcon>
           <Container>
-            <h1 style={{ marginLeft: "600px", color: "#f0c0ef" }}>
+            <h1 style={{ textAlign: "center", color: "#f0c0ef" }}>
               Welcome, Bem-vindo, Irasshaimase!
             </h1>
             <div>

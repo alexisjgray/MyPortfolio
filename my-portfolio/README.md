@@ -1,3 +1,7 @@
+https://youtu.be/oHmz42qRfho?si=EiQGebGk-IPgSK-F
+https://www.geeksforgeeks.org/how-to-create-a-responsive-sidebar-with-dropdown-menu-in-reactjs/
+https://medium.com/p/2415627acfa9
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
