@@ -1,6 +1,8 @@
 https://youtu.be/oHmz42qRfho?si=EiQGebGk-IPgSK-F
 https://www.geeksforgeeks.org/how-to-create-a-responsive-sidebar-with-dropdown-menu-in-reactjs/
 https://medium.com/p/2415627acfa9
+https://www.w3schools.com/cssref/css3_pr_mediaquery.php
+https://juhanajauhiainen.com/posts/how-to-implement-usemediaquery-hook-in-react
 
 # Getting Started with Create React App
 
